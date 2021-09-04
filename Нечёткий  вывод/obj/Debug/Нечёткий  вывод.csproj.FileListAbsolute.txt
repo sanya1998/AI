@@ -1,0 +1,10 @@
+D:\Desyatov Alexander\Documents\VSProjects\Нечёткий  вывод\obj\Debug\Нечёткий  вывод.csprojAssemblyReference.cache
+D:\Desyatov Alexander\Documents\VSProjects\Нечёткий  вывод\obj\Debug\Нечёткий__вывод.FormMain.resources
+D:\Desyatov Alexander\Documents\VSProjects\Нечёткий  вывод\obj\Debug\Нечёткий__вывод.Properties.Resources.resources
+D:\Desyatov Alexander\Documents\VSProjects\Нечёткий  вывод\obj\Debug\Нечёткий  вывод.csproj.GenerateResource.cache
+D:\Desyatov Alexander\Documents\VSProjects\Нечёткий  вывод\obj\Debug\Нечёткий  вывод.csproj.CoreCompileInputs.cache
+D:\Desyatov Alexander\Documents\VSProjects\Нечёткий  вывод\bin\Debug\Нечёткий  вывод.exe.config
+D:\Desyatov Alexander\Documents\VSProjects\Нечёткий  вывод\bin\Debug\Нечёткий  вывод.exe
+D:\Desyatov Alexander\Documents\VSProjects\Нечёткий  вывод\bin\Debug\Нечёткий  вывод.pdb
+D:\Desyatov Alexander\Documents\VSProjects\Нечёткий  вывод\obj\Debug\Нечёткий  вывод.exe
+D:\Desyatov Alexander\Documents\VSProjects\Нечёткий  вывод\obj\Debug\Нечёткий  вывод.pdb

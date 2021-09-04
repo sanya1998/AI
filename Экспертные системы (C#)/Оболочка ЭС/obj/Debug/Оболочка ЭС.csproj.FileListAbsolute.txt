@@ -1,0 +1,10 @@
+D:\Desyatov Alexander\Documents\VSProjects\Оболочка ЭС\bin\Debug\Оболочка ЭС.exe.config
+D:\Desyatov Alexander\Documents\VSProjects\Оболочка ЭС\bin\Debug\Оболочка ЭС.exe
+D:\Desyatov Alexander\Documents\VSProjects\Оболочка ЭС\bin\Debug\Оболочка ЭС.pdb
+D:\Desyatov Alexander\Documents\VSProjects\Оболочка ЭС\obj\Debug\Оболочка ЭС.csprojAssemblyReference.cache
+D:\Desyatov Alexander\Documents\VSProjects\Оболочка ЭС\obj\Debug\Оболочка_ЭС.FormMain.resources
+D:\Desyatov Alexander\Documents\VSProjects\Оболочка ЭС\obj\Debug\Оболочка_ЭС.Properties.Resources.resources
+D:\Desyatov Alexander\Documents\VSProjects\Оболочка ЭС\obj\Debug\Оболочка ЭС.csproj.GenerateResource.cache
+D:\Desyatov Alexander\Documents\VSProjects\Оболочка ЭС\obj\Debug\Оболочка ЭС.csproj.CoreCompileInputs.cache
+D:\Desyatov Alexander\Documents\VSProjects\Оболочка ЭС\obj\Debug\Оболочка ЭС.exe
+D:\Desyatov Alexander\Documents\VSProjects\Оболочка ЭС\obj\Debug\Оболочка ЭС.pdb
